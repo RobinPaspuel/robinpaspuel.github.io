@@ -54,6 +54,9 @@ Technology testing of socket.io
 Simple bookmark API developed in NestJS with JWT authentication.
 - Technology Stack: NestJS, Prisma, PostgreSQL, JWT, Typescript.
   
+- ## [Serverless Framework](https://github.com/RobinPaspuel/serverless-crud)
+Simple CRUD application to test Serverless Framework with DynamoDB in AWS.
+- Technology Stack: Serverless Framework, DynamoDB, Middy.
   
 
 ---
